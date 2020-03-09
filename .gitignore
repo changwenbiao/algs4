@@ -1,0 +1,8 @@
+
+.classpath
+.project
+*.prefs
+*.class
+*.MF
+*.properties
+target/classes/META-INF/maven/edu.princeton.cs/algs4/pom.xml
